@@ -284,7 +284,7 @@ http://190.15.32.30:80/55/tracks-v1a1/mono.m3u8
 http://190.15.32.30:80/101/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://i.imgur.com/vj9a9Mi.png" group-title="Filmes e Séries",Warner
-http://190.15.32.30:80/11/tracks-v1a1/mono.m3u8
+http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/fBBzt9n.png" group-title="24 Horas",As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
