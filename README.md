@@ -91,17 +91,59 @@ http://50.7.34.155:2201/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwB
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes
 http://45.184.68.97:80/PFC_HD/tracks-a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes
+http://50.7.34.155:2201/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes
+http://45.184.68.97:80/PFC_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes
+http://45.184.68.97:80/PFC_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 2
 http://45.184.68.97:80/PFC2_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 2
+http://45.184.68.97:80/PFC2_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 2
+http://45.184.68.97:80/PFC2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 3
 http://45.184.68.97:80/PFC3_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 3
+http://45.184.68.97:80/PFC3_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 3
+http://45.184.68.97:80/PFC3_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 4
 http://45.184.68.97:80/PFC4_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 4
+http://45.184.68.97:80/PFC4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 4
+http://45.184.68.97:80/PFC4_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 5
 http://45.184.68.97:80/PFC5_HD/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 5
+http://50.7.34.155:2201/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 5
+http://45.184.68.97:80/PFC5_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 5
+http://45.184.68.97:80/PFC5_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 6
+http://45.184.68.97:80/PFC6_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 6
+http://50.7.34.155:2201/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
 
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 6
 http://45.184.68.97:80/PFC6_HD/index.m3u8
@@ -109,8 +151,20 @@ http://45.184.68.97:80/PFC6_HD/index.m3u8
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 7
 http://45.184.68.97:80/PFC7_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 7
+http://45.184.68.97:80/PFC7_HD/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 7
+http://45.184.68.97:80/PFC7_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 8
 http://45.184.68.97:80/PFC8_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 8
+http://45.184.68.97:80/PFC8_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 8
+http://45.184.68.97:80/PFC8_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/itc2Moe.png" group-title="Esportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
