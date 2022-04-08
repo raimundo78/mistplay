@@ -172,11 +172,39 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/Mja0gSl.png" group-title="Esportes",SporTV
 http://190.15.32.30:80/110/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/Mja0gSl.png" group-title="Esportes",SporTV
+http://50.7.34.155:2201/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/Mja0gSl.png" group-title="Esportes",SporTV
+http://45.184.68.97:80/110/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/Mja0gSl.png" group-title="Esportes",SporTV
+http://45.184.68.97:80/110/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://i.imgur.com/VpqHLRE.png" group-title="Esportes",SporTV 2
 http://190.15.32.30:80/111/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://i.imgur.com/VpqHLRE.png" group-title="Esportes",SporTV 2
+http://50.7.34.155:2201/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://i.imgur.com/VpqHLRE.png" group-title="Esportes",SporTV 2
+http://45.184.68.97:80/111/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://i.imgur.com/VpqHLRE.png" group-title="Esportes",SporTV 2
+http://45.184.68.97:80/111/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://i.imgur.com/cH6cTRm.png" group-title="Esportes",SporTV 3
 http://190.15.32.30:80/100/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://i.imgur.com/cH6cTRm.png" group-title="Esportes",SporTV 3
+http://50.7.34.155:2201/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://i.imgur.com/cH6cTRm.png" group-title="Esportes",SporTV 3
+http://45.184.68.97:80/100/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://i.imgur.com/cH6cTRm.png" group-title="Esportes",SporTV 3
+http://45.184.68.97:80/100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/UcguhLg.png" group-title="Esportes",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
